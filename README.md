@@ -22,6 +22,7 @@ Logistic Regression
 SVM
 Random Forest etc.
 Prediction And Calculating Accuracy , Precision , Recall And F1 Score to decide which model is best.
+
 Phase 2:
 Adding more complex features and using deep learning using TensorFlow building a final model and Developing a pickle file.
 Prediction And Calculating Accuracy , Precision , Recall And F1 Score.
